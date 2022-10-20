@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Nandu</title>
+</head>
+<style>
+    h1 {color: rgb(215, 45, 79);
+    font-style: italic;
+border: 2px solid black;}
+
+    h2{color: blue;}
+</style>
+<body>
+    <img src="./nandhu.jpg" width="230px" height="270px">
+    <h1>Hakimkari Nandha Kishore</h1>
+    <h2>about</h2>
+
+</body>
+
+
+</html>
